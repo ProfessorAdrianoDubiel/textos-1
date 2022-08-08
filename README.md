@@ -1,5 +1,6 @@
 # textos
 repositorio para guarda textos
+
 ola eu sou a leticia szaykowski da fonseca
 nasci no dia 30 de agosto de 2007
 sou aluna do colegio estadual do campo duque de caxias e-f-m
